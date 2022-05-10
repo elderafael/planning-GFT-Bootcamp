@@ -11,7 +11,7 @@
 
 ### Modulo II - Setup
 
-- [ ] Introdução ao Ecossistema .NET e Documentação
+- [ ] Introdução ao Ecossistema .NET e Documentação.
 - [ ] Criando o ambiente de desenvolvimento
 
 ### Modulo III - C# Fundamental
