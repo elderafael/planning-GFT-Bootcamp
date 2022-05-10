@@ -7,7 +7,7 @@
 - [x] Tudo que voce precisa saber para ser um protagonista em um Bootcamp da DIO
 - [x] Introdução a Programação Computacional
 - [x] Introdução ao GitHub
-- [x] Criando seu primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+- [x] Desafio - Criando seu primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
 ### Modulo II - Setup
 
